@@ -7,7 +7,7 @@ Je suis ravi de vous présenter mon projet "SOS Services", une plateforme web qu
 ### **Nom du projet** : SOS Services
 ---
 ### **Description générale** :
-"SOS Services" est une plateforme web innovante dédiée à la mise en relation entre des clients à la recherche de services de réparation et d'entretien, et des professionnels qualifiés dans divers domaines tels que la **plomberie**, l'**électricité**, la **menuiserie**, le **jardinage**, et plus encore.
+SOS Services" est une plateforme web innovante dédiée à la mise en relation entre des clients à la recherche de services de réparation et d'entretien, et des professionnels qualifiés dans divers domaines tels que la **plomberie**, l'**électricité**, la **menuiserie**, le **jardinage**, et plus encore.
 ---
 ### **Objectifs du projet** :
 - **Simplification** : Rendre le processus de recherche de prestataires de services plus facile et rapide pour les utilisateurs.
