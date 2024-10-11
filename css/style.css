@@ -133,16 +133,20 @@ a:focus {
 
 .custom_nav-container .navbar-nav {
   margin-left: auto;
+  gap: 10px;
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 10px 25px;
   color: #000000;
   text-align: center;
+  border-radius: 17px;
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
   color: #0355cc;
+  background-color: #fff;
+  border-radius: 17px;
 }
 
 .custom_nav-container .form-inline .nav_search-btn {
