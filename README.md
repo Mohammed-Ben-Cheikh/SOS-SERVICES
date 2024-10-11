@@ -96,7 +96,7 @@
   - **Bootstrap** : Pour accélérer le développement et assurer un design responsive.
   - **jQuery** : Pour simplifier les manipulations du DOM (si utilisé).
 
-- **Back-end** (si applicable) :
+- **Back-end** (dans le futur) :
 
   - **PHP** ou **Node.js** : Pour le traitement des formulaires et la gestion du contenu dynamique.
   - **Bases de données** : **MySQL** ou **MongoDB** pour stocker les informations des utilisateurs, les demandes de services, les témoignages.
