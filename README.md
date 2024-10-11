@@ -173,10 +173,6 @@
 
   - Mise en place de sondages et de questionnaires pour recueillir les avis des utilisateurs.
 
-- **Analyse des données** :
-
-  - Utilisation d'outils d'analyse (comme Google Analytics) pour comprendre le comportement des utilisateurs et améliorer le site en conséquence.
-
 - **Mises à jour régulières** :
 
   - Actualisation du contenu, ajout de nouveaux services, amélioration des fonctionnalités existantes.
